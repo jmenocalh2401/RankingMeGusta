@@ -8,6 +8,8 @@ $dbname = "megusta"; // Nombre de la base de datos
 $link = mysql_connect($dbhost,$dbuser,$dbpass);
 		mysql_select_db($dbname,$link);
 
+    // SEPARAR LINEAS SUPERIORES EN PHP INDEPENDIENTE!!!
+
 # Imprimimos una prueba para dar como ejemplo
 $sql = "SELECT * FROM post ORDER BY megusta DESC";
 $query = mysql_query($sql,$link);
