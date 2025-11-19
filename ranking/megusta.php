@@ -1,7 +1,7 @@
 ﻿<?php
 $dbhost = "localhost"; // Servidor
 $dbuser = "root"; // Nombre de usuario
-$dbpass = "pspspsppspspfpsepfpsfp"; // Contraseña
+$dbpass = "MiNuevaClave*__*ññ5559903"; // Contraseña
 $dbname = "ranking"; // Nombre de la base de datos
 
 # Creamos conexion a la base de datos
